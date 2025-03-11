@@ -1,5 +1,5 @@
-1. Kullanıcı dostu arayüz  
+1. Hızlı performans
 2. Çevrimdışı kullanım desteği  
-3. Hızlı performans  
+3. Kullanıcı dostu arayüz  
 4. Çoklu dil desteği  
 5. Karanlık mod desteği
